@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "imtihon_savollari__2_modul__1_31_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "imtihon_savollari__2_modul__1_31_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imtihon_savollari__2_modul__1_31_-Debug-115ba076981451c90a73.json",
+					"name" : "imtihon_savollari__2_modul__1_31_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Hp/CLionProjects/imtihon savollari (2-modul, 1-31)/cmake-build-debug",
+		"source" : "C:/Users/Hp/CLionProjects/imtihon savollari (2-modul, 1-31)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

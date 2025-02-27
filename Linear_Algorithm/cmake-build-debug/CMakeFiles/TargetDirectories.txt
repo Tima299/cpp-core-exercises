@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/Linear_Algorithm/cmake-build-debug/CMakeFiles/Linear_Algorithm.dir
+C:/Users/Hp/CLionProjects/Linear_Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/Linear_Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

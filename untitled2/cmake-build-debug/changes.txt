@@ -1,0 +1,2 @@
+ChangedSeat: 1 1 -> 3 6
+ChangedSeat: 2 2 -> 8 8

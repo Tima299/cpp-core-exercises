@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/Imtihon2/cmake-build-debug/CMakeFiles/Imtihon2.dir
+C:/Users/Hp/CLionProjects/Imtihon2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/Imtihon2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

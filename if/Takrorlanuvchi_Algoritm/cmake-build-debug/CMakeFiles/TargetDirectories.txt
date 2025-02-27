@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/if/Takrorlanuvchi_Algoritm/cmake-build-debug/CMakeFiles/Takrorlanuvchi_Algoritm.dir
+C:/Users/Hp/CLionProjects/if/Takrorlanuvchi_Algoritm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/if/Takrorlanuvchi_Algoritm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

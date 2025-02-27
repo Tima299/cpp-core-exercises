@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/Dars-6/cmake-build-debug/CMakeFiles/Dars_6.dir
+C:/Users/Hp/CLionProjects/Dars-6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/Dars-6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

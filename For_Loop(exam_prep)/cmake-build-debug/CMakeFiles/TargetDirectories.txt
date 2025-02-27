@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/For_Loop(exam_prep)/cmake-build-debug/CMakeFiles/For_Loop_exam_prep_.dir
+C:/Users/Hp/CLionProjects/For_Loop(exam_prep)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/For_Loop(exam_prep)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

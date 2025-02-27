@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/Rekursiya/cmake-build-debug/CMakeFiles/Rekursiya.dir
+C:/Users/Hp/CLionProjects/Rekursiya/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/Rekursiya/cmake-build-debug/CMakeFiles/rebuild_cache.dir

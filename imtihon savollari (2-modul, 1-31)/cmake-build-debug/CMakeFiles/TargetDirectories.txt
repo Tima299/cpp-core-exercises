@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/imtihon savollari (2-modul, 1-31)/cmake-build-debug/CMakeFiles/imtihon_savollari__2_modul__1_31_.dir
+C:/Users/Hp/CLionProjects/imtihon savollari (2-modul, 1-31)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/imtihon savollari (2-modul, 1-31)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

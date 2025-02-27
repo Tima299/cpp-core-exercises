@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/Arrays, 1st lesson/cmake-build-debug/CMakeFiles/Arrays__1st_lesson.dir
+C:/Users/Hp/CLionProjects/Arrays, 1st lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/Arrays, 1st lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir

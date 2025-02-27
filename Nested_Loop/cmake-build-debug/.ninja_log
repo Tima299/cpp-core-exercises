@@ -1,0 +1,6 @@
+# ninja log v6
+7	428	7511367837077352	CMakeFiles/Nested_Loop.dir/main.cpp.obj	ae9f26f476dea95e
+428	497	7511367841296850	Nested_Loop.exe	7b23e6beb0b1f772
+25	674	7544170796214968	build.ninja	7ff4645dd4590d59
+5	758	7544170796660286	CMakeFiles/Nested_Loop.dir/main.cpp.obj	ae9f26f476dea95e
+759	1213	7544170804200662	Nested_Loop.exe	7b23e6beb0b1f772

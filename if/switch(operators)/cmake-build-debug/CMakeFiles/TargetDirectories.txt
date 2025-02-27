@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/if/switch(operators)/cmake-build-debug/CMakeFiles/switch_operators_.dir
+C:/Users/Hp/CLionProjects/if/switch(operators)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/if/switch(operators)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/exam_questions_1D_arrays/cmake-build-debug/CMakeFiles/exam_questions_1D_arrays.dir
+C:/Users/Hp/CLionProjects/exam_questions_1D_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/exam_questions_1D_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
